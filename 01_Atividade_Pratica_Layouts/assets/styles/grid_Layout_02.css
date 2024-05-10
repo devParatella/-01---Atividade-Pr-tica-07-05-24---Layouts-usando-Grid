@@ -8,10 +8,10 @@ body {
 .container {
   display: grid;
   grid-template-columns: 0.6fr 1.2fr 1.2fr;
-  grid-template-rows: minmax(15vh, 0.8fr) minmax(15vh, 3.23fr) minmax(
-      15vh,
+  grid-template-rows: minmax(11vh, 0.8fr) minmax(11vh, 3.23fr) minmax(
+      11vh,
       3.2fr
-    ) minmax(15vh, 0.8fr);
+    ) minmax(11vh, 0.8fr);
   gap: 10px;
   grid-auto-flow: row;
   grid-template-areas:
